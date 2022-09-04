@@ -1,0 +1,1 @@
+# PowerShell-Set-Role-and-Permissions-for-the-Service-Principal
